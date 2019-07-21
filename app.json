@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "Herramienta para la gestión de incidentes",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "hgi",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
